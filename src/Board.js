@@ -177,7 +177,7 @@ class Board extends React.Component {
               <div className="space property">
                 <div className="container">
                   <div className="color-bar orange"></div>
-                  <div className="name">New York Avenue</div>
+                  <div className="name">New York YES</div>
                   <div className="price">Price $200</div>
                 </div>
               </div>
